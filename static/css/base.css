@@ -1,0 +1,10 @@
+.cls1{
+    text-align: center;
+}
+
+ul{
+    float: right;
+}
+ul li{
+    list-style-type: none;
+}
